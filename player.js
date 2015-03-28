@@ -150,5 +150,6 @@ var playSong = function(song, bpm, onComplete) {
   };
 
   playNextNote();
+  onComplete;
 
 };
